@@ -7,14 +7,14 @@ permalink: /food/
 # {{ page.title }}
 
 <div class="gallery">
-    <a target="_blank" href='www.google.com'>
+    <a target="_blank" href='/contact-me'>
         <img src='images/chess.png' alt="Fish Cheeks" />
     </a>
     <div class="desc">Description 1</div>
 </div>
 
 <div class="gallery">
-    <a target="_blank" href='www.google.com'>
+    <a target="_blank" href='/contact-me'>
         <img src='images/chess.png' alt="Description 2" />
     </a>
     <div class="desc">Description 2</div>
