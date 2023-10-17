@@ -19,8 +19,12 @@
 <img src="images/sim.png?raw=true"/>
 
 ---
-[Gitlet: A Lightweight Local Version Control System](http://example.com/)
+[Gitlet: A Lightweight Local Version Control System (Apr--May 2022)](http://example.com/)
 <img src="images/gitlet.jpg?raw=true"/>
+
+---
+[The Enigma Encryption Machine (Feb--Mar 2022)](http://example.com/)
+<img src="images/enigma.jpg?raw=true"/>
 
 ---
 
