@@ -5,7 +5,6 @@
 ## Projects
 
 [Quantitative Multifactor Investing Model for the Chinese A-Share Stock Market (Nov--Dec 2022)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Spam & Ham Email Classifier (Apr 2023)](/pdf/sample_presentation.pdf)
