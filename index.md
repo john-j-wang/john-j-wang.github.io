@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,13 +17,12 @@
 
 ---
 
-### Category Name 2
+### Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Why Duffl is Racing to Your Campus](https://businessreview.berkeley.edu/the-declaration-of-financial-independence/)
+- [Why Duffl is Racing to Your Campus](https://businessreview.berkeley.edu/why-duffl-is-racing-to-your-campus/)
+- [A Golden Time Horizon](https://businessreview.berkeley.edu/a-golden-time-horizon/)
+- [Roth IRAs: Effects of Closing the Mega Backdoor Loophole](https://businessreview.berkeley.edu/roth-iras-effects-of-closing-the-mega-backdoor-loophole/)
 
 ---
 
