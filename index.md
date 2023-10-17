@@ -20,6 +20,7 @@
 
 ---
 [Gitlet: A Lightweight Local Version Control System](http://example.com/)
+<img src="images/gitlet.jpg?raw=true"/>
 
 ---
 
