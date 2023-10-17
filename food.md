@@ -9,14 +9,14 @@ Below are some of my favorite dishes!
 
 <!-- Gallery -->
 <div class="gallery">
-    <a target="_blank" href="full-size-image1.jpg">
+    <a target="_blank" href="/images/gold.png">
       <img src="thumbnail-image1.jpg" alt="Food 1" width="600" height="400">
     </a>
     <div class="desc">Description of Food 1</div>
 </div>
 
 <div class="gallery">
-    <a target="_blank" href="full-size-image2.jpg">
+    <a target="_blank" href="/images/gold.png">
       <img src="thumbnail-image2.jpg" alt="Food 2" width="600" height="400">
     </a>
     <div class="desc">Description of Food 2</div>
