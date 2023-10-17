@@ -20,6 +20,7 @@ description: >
   <a href='https://github.com/john-j-wang'><img src='images/github.png' alt='GitHub' style='width:30px;height:30px;border:0;margin-left:5px;margin-right:5px'></a>
   <a href='https://www.chess.com/member/ilr13s'><img src='images/chess.png' alt='Chess.com' style='width:30px;height:30px;border:0;margin-left:5px;'></a>
   <br><br>
+  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
