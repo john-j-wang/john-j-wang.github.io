@@ -24,23 +24,23 @@ permalink: /food/
 
 <style>
     .gallery {
-        margin: 5px;
-        border: 1px solid #ccc;
-        float: left;
-        width: 180px;
+        margin: 5px; /* Adjusts the space around the gallery item */
+        border: 1px solid #ccc; /* A light grey border around the gallery items */
+        float: left; /* This makes the gallery items sit side by side */
+        width: 100px; /* <-- Adjusted width of the gallery items. Change this value to find your preferred size */
     }
     
     .gallery:hover {
-        border: 1px solid #777;
+        border: 1px solid #777; /* A slightly darker grey border on hover for a subtle effect */
     }
     
     .gallery img {
-        width: 100%;
-        height: auto;
+        width: 100%;  /* Makes sure the image scales to the width of its container */
+        height: auto;  /* Ensures the image's aspect ratio is maintained */
     }
     
     .desc {
-        padding: 15px;
-        text-align: center;
+        padding: 15px; /* Space between image and the description */
+        text-align: center; /* Centers the text horizontally */
     }
 </style>
