@@ -19,7 +19,8 @@
 
 ### Publications
 
-- [Why Duffl is Racing to Your Campus](https://businessreview.berkeley.edu/the-declaration-of-financial-independence/)
+- [The Declaration of Financial Independence](https://businessreview.berkeley.edu/the-declaration-of-financial-independence/)
+  <img src="images/bitcoin.png?raw=true"/>
 - [Why Duffl is Racing to Your Campus](https://businessreview.berkeley.edu/why-duffl-is-racing-to-your-campus/)
 - [A Golden Time Horizon](https://businessreview.berkeley.edu/a-golden-time-horizon/)
 - [Roth IRAs: Effects of Closing the Mega Backdoor Loophole](https://businessreview.berkeley.edu/roth-iras-effects-of-closing-the-mega-backdoor-loophole/)
