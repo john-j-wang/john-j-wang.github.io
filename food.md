@@ -8,14 +8,14 @@ permalink: /food/
 
 <div class="gallery">
     <a target="_blank" href='/contact-me'>
-        <img src='images/chess.png' alt="Fish Cheeks" />
+        <img src='images/chess.png' alt="Fish Cheeks (NoHo, New York)" />
     </a>
     <div class="desc">Description 1</div>
 </div>
 
 <div class="gallery">
     <a target="_blank" href='/contact-me'>
-        <img src='images/chess.png' alt="Description 2" />
+        <img src='images/chess.png' alt="Frankie's 457 (Carroll Gardens, Brooklyn)" />
     </a>
     <div class="desc">Description 2</div>
 </div>
