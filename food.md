@@ -27,7 +27,7 @@ permalink: /food/
         margin: 5px; /* Adjusts the space around the gallery item */
         border: 1px solid #ccc; /* A light grey border around the gallery items */
         float: left; /* This makes the gallery items sit side by side */
-        width: 100px; /* <-- Adjusted width of the gallery items. Change this value to find your preferred size */
+        width: 180px; /* Increased width for gallery items */
     }
     
     .gallery:hover {
