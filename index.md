@@ -9,7 +9,7 @@
 
 ---
 [Spam & Ham Email Classifier (Apr 2023)](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/spam.jpg?raw=true"/>
 
 ---
 [Cook County, Illinois Housing Price Predictor (Mar 2023)](http://example.com/)
