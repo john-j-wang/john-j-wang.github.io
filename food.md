@@ -12,8 +12,8 @@ permalink: /food/
     <p><strong>Fish Cheeks (NoHo, New York)</strong> <br> Shrimp in 3 Crab Sauce: <em>Lightly cured raw shrimp with lime juice, fish sauce, sliced garlic, bird's eye chili, cilantro, mint, and bitter melon</em></p>
   </div>
   <div style="margin: 5px; width: 300px;">
-    <img src="/images/food2.jpg" alt="Food 2" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
-    <p>Description for Food 2</p>
+    <img src="/images/frankies.jpg" alt="Frankie's 457" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
+    <p><strong>Frankie's 457 Spuntino (Carroll Gardens, Brooklyn)</strong> <br> Tuna and Roasted Red Pepper, Cremini Mushroom and Truffle Oil Crostini</p>
   </div>
   <div style="margin: 5px; width: 300px;">
     <img src="/images/food3.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
