@@ -8,7 +8,7 @@ permalink: /food/
 Below are some of my favorite dishes!
 
 <div class="gallery">
-    <a target="_blank" href="images/gold.png?raw=true">
+    <a target="_blank" href="/images/gold.png?raw=true">
       <img src="thumbnail-image1.jpg" alt="Food 1" width="600" height="400">
     </a>
     <div class="desc">Description of Food 1</div>
