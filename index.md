@@ -17,11 +17,10 @@
 
 ---
 [Index Fund Investment Simulator (Oct--Nov 2020)](https://john-j-wang.shinyapps.io/investmentsimulator/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sim.png?raw=true"/>
 
 ---
 [Gitlet: A Lightweight Local Version Control System](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
