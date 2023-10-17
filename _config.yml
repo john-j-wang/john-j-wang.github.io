@@ -1,7 +1,7 @@
 title: "John Wang" 
 logo: "/images/GettyImages-1228988128-1-784x523.jpeg?raw=true"
 description: >
-  Hi! I'm an undergrad at the University of California, Berkeley studying Economics, CS, and Stat. My passion is for random events and probability. 
+  Hi! I'm an undergrad at the University of California, Berkeley studying Economics, CS, and Stat. My passion is for random events and probability, and  
   I am particularly interested in using statistical and computational models to better understand and gain deeper insight into financial markets. 
 
   <br><br>
@@ -10,7 +10,9 @@ description: >
   Scroll down if you want to check out the best food I've ever eaten!
   ---
   <br><br>
-  <a href='/files/JohnWang_DS_2024%20(2).pdf' target='_blank'>Resume</a> <!-- Direct HTML hyperlink -->
+  <a href='/files/JohnWang_DS_2024%20(2).pdf' target='_blank'>Resume</a> 
+  <br><br>
+  <a href='mailto:jw16@berkeley.edu'>Contact</a>
   <br><br>
   Website still under construction
   <br><br>
@@ -22,3 +24,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
