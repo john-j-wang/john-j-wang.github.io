@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Me
-permalink: /contact-me/
+permalink: https://john-j-wang.github.io/contact-me
 ---
 
 ## {{ page.title }}
