@@ -27,7 +27,7 @@
 
 ---
 
-[<img src="images/gold.png?raw=true"/>](https://businessreview.berkeley.edu/a-golden-time-horizon/)
+[<img src="images/gold2.png?raw=true"/>](https://businessreview.berkeley.edu/a-golden-time-horizon/)
 
 ---
 
