@@ -6,3 +6,4 @@ permalink: /food/
 
 # {{ page.title }}
 
+<img src="images/fishcheeks.jpg?raw=true"/>
