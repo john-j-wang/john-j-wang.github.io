@@ -1,15 +1,8 @@
-title: John Wang # your name (or website title) here
+title: "John Wang" # your name (or website title) here
 logo: "/images/GettyImages-1228988128-1-784x523.jpeg?raw=true" # your photo (or logo) here
-description:
-  undergrad uc berkeley 
-  <br><br>
-  Website still under construction
-  <br><br>
-  <a href="https://www.linkedin.com/in/john-j-wang/">
-    <img src="images/linkedin.png" alt="LinkedIn" style="width:42px;height:42px;border:0;">
-</a>
-  
+description: "undergrad uc berkeley <br><br> Website still under construction <br><br> <a href='https://www.linkedin.com/in/john-j-wang/'><img src='images/linkedin.png' alt='LinkedIn' style='width:42px;height:42px;border:0;'></a>"
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
