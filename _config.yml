@@ -5,7 +5,7 @@ description:
   <br><br>
   Website still under construction
   <br><br>
-  [<img src="images/linkedin.png?raw=true"/>](https://www.linkedin.com/in/john-j-wang/)
+  <a href="https://www.linkedin.com/in/john-j-wang/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
