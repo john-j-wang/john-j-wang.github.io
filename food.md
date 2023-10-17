@@ -1,48 +1,46 @@
 ---
 layout: default
-title: My Favorite Foods
+title: Food Gallery
 permalink: /food/
 ---
 
 # {{ page.title }}
-Below are some of my favorite dishes!
 
 <div class="gallery">
-    <a target="_blank" href="/images/gold.png?raw=true">
-      <img src="thumbnail-image1.jpg" alt="Food 1" width="600" height="400">
+    <a target="_blank" href="/path/to/image1-full.jpg">
+        <img src="/path/to/image1-thumbnail.jpg" alt="Description 1" />
     </a>
-    <div class="desc">Description of Food 1</div>
+    <div class="desc">Description 1</div>
 </div>
 
 <div class="gallery">
-    <a target="_blank" href=""images/spam.jpg?raw=true"">
-      <img src="thumbnail-image2.jpg" alt="Food 2" width="600" height="400">
+    <a target="_blank" href="/path/to/image2-full.jpg">
+        <img src="/path/to/image2-thumbnail.jpg" alt="Description 2" />
     </a>
-    <div class="desc">Description of Food 2</div>
+    <div class="desc">Description 2</div>
 </div>
 
-<!-- Add more items as per your requirement -->
+<!-- Repeat for more items -->
 
-<!-- CSS for Gallery -->
 <style>
-    div.gallery {
-      margin: 5px;
-      border: 1px solid #ccc;
-      float: left;
-      width: 180px;
+    .gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
     }
-
-    div.gallery:hover {
-      border: 1px solid #777;
+    
+    .gallery:hover {
+        border: 1px solid #777;
     }
-
-    div.gallery img {
-      width: 100%;
-      height: auto;
+    
+    .gallery img {
+        width: 100%;
+        height: auto;
     }
-
-    div.desc {
-      padding: 15px;
-      text-align: center;
+    
+    .desc {
+        padding: 15px;
+        text-align: center;
     }
 </style>
