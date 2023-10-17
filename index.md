@@ -7,7 +7,7 @@
 [Quantitative Multifactor Investing Model for the Chinese A-Share Stock Market (Nov--Dec 2022)](/sample_page)
 
 ---
-[Spam & Ham Email Classifier (Apr 2023)](/pdf/sample_presentation.pdf)
+[Spam & Ham Email Classifier (Apr 2023)](/pdf/sample_presentation.pdf) <br>
 <img src="images/spam.jpg?raw=true"/>
 
 ---
