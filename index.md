@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects
+## Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Publications
+## Publications
 
 [<img src="images/bitcoin.png?raw=true"/>](https://businessreview.berkeley.edu/the-declaration-of-financial-independence/)
 
