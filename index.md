@@ -4,7 +4,7 @@
 
 ## Projects
 
-[Quantitative Multifactor Investing Model for the Chinese A-Share Stock Market (Nov--Dec 2022)](/sample_page)
+[Quantitative Multifactor Investing Model for the Chinese A-Share Stock Market (Nov -- Dec 2022)](/sample_page)
 
 ---
 [Spam & Ham Email Classifier (Apr 2023)](/pdf/sample_presentation.pdf)
@@ -15,15 +15,15 @@
 <img src="images/housing.jpg?raw=true"/>
 
 ---
-[Index Fund Investment Simulator (Oct--Nov 2020)](https://john-j-wang.shinyapps.io/investmentsimulator/)
+[Index Fund Investment Simulator (Oct -- Nov 2020)](https://john-j-wang.shinyapps.io/investmentsimulator/)
 <img src="images/sim.png?raw=true"/>
 
 ---
-[Gitlet: A Lightweight Local Version Control System (Apr--May 2022)](http://example.com/)
+[Gitlet: A Lightweight Local Version Control System (Apr -- May 2022)](http://example.com/)
 <img src="images/gitlet.jpg?raw=true"/>
 
 ---
-[The Enigma Encryption Machine (Feb--Mar 2022)](http://example.com/)
+[The Enigma Encryption Machine (Feb -- Mar 2022)](http://example.com/)
 <img src="images/enigma.jpg?raw=true"/>
 
 ---
