@@ -19,20 +19,17 @@
 
 ### Publications
 
-[The Declaration of Financial Independence](https://businessreview.berkeley.edu/the-declaration-of-financial-independence/)
-<img src="images/bitcoin.png?raw=true"/>
+[<img src="images/bitcoin.png?raw=true"/>](https://businessreview.berkeley.edu/the-declaration-of-financial-independence/)
 
 ---
 
-[Why Duffl is Racing to Your Campus](https://businessreview.berkeley.edu/why-duffl-is-racing-to-your-campus/)
-<img src="images/duffl.png?raw=true"/>
+[<img src="images/duffl.png?raw=true"/>](https://businessreview.berkeley.edu/why-duffl-is-racing-to-your-campus/)
 
 ---
 
-[A Golden Time Horizon](https://businessreview.berkeley.edu/a-golden-time-horizon/)
-<img src="images/gold.png?raw=true"/>
+[<img src="images/gold.png?raw=true"/>](https://businessreview.berkeley.edu/a-golden-time-horizon/)
 
 ---
 
-[Roth IRAs: Effects of Closing the Mega Backdoor Loophole](https://businessreview.berkeley.edu/roth-iras-effects-of-closing-the-mega-backdoor-loophole/)
-<img src="images/rothira.png?raw=true"/>
+[<img src="images/rothira.png?raw=true"/>](https://businessreview.berkeley.edu/roth-iras-effects-of-closing-the-mega-backdoor-loophole/)
+
