@@ -13,14 +13,16 @@
 
 ---
 [Cook County, Illinois Housing Price Predictor (Mar 2023)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/housing.jpg?raw=true"/>
 
 ---
 [Index Fund Investment Simulator (Oct--Nov 2020)](https://john-j-wang.shinyapps.io/investmentsimulator/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 [Gitlet: A Lightweight Local Version Control System](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ## Publications
