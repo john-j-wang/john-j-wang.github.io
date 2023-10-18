@@ -16,8 +16,27 @@ permalink: /food/
     <p><strong>Frankie's 457 Spuntino (Carroll Gardens, Brooklyn)</strong> <br> Tuna and Roasted Red Pepper, Cremini Mushroom and Truffle Oil Crostini</p>
   </div>
   <div style="margin: 5px; width: 300px;">
-    <img src="/images/food3.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
+    <img src="/images/thaidiner.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
     <p>Description for Food 3</p>
   </div>
-  <!-- Add more items as needed -->
+ <div style="margin: 5px; width: 300px;">
+    <img src="/images/misi.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
+    <p>Description for Food 3</p>
+  </div>
+  <div style="margin: 5px; width: 300px;">
+    <img src="/images/buttermilk.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
+    <p>Description for Food 3</p>
+  </div>
+  <div style="margin: 5px; width: 300px;">
+    <img src="/images/fin.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
+    <p>Description for Food 3</p>
+  </div>
+  <div style="margin: 5px; width: 300px;">
+    <img src="/images/udessert.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
+    <p>Description for Food 3</p>
+  </div>
+  <div style="margin: 5px; width: 300px;">
+    <img src="/images/iyasare.jpg" alt="Food 3" style="width:100%; height:auto;"> <!-- maintain aspect ratio -->
+    <p>Description for Food 3</p>
+  </div>
 </div>
