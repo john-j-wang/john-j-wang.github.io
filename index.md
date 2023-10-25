@@ -7,12 +7,12 @@
 [Quantitative Multifactor Investing Model for the Chinese A-Share Stock Market (Nov--Dec 2022)](/contact-me)
 
 ---
-[Spam & Ham Email Classifier (Apr 2023)](/contact-me) 
+[Spam & Ham Email Classifier (Apr 2023)](/spam-ham) 
 <div style="height: .5px;"></div>
 <img src="images/spam.jpg?raw=true"/>
 
 ---
-[Cook County, Illinois Housing Price Predictor (Mar 2023)](/contact-me)
+[Cook County, Illinois Housing Price Predictor (Mar 2023)](/housing-predictor)
 <div style="height: .5px;"></div>
 <img src="images/housing.jpg?raw=true"/>
 
@@ -22,12 +22,12 @@
 <img src="images/sim.png?raw=true"/>
 
 ---
-[Gitlet: A Lightweight Local Version Control System (Apr--May 2022)](/contact-me)
+[Gitlet: A Lightweight Local Version Control System (Apr--May 2022)](/gitlet)
 <div style="height: .5px;"></div>
 <img src="images/gitlet.jpg?raw=true"/>
 
 ---
-[The Enigma Encryption Machine (Feb--Mar 2022)](/contact-me)
+[The Enigma Encryption Machine (Feb--Mar 2022)](/enigma)
 <div style="height: .5px;"></div>
 <img src="images/enigma.jpg?raw=true"/>
 
