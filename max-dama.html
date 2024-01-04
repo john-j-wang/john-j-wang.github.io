@@ -78,31 +78,28 @@
 
     <div class="container" style="font-family: Arial, sans-serif; background-color: #f2f2f2; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
     <h2 id="market-making-and-betting" style="color: #333;">Market Making and Betting</h2>
-    <p>
-        Flip 10,000 fair coins. You are offered a 1-1 bet that the sum is less than 5,000. You can bet $1, $2, ..., $100. How much will you bet? How much will you bet if someone tells you that the sum of the coins is less than 5,100?
-    </p>
-    <p> 
-        <strong><u>Solution:</u></strong> Let's first consider the bet that the sum is less than 5,000. Without thinking, this is a fair bet. Formally, the number of heads, 
-        <span class="latex">\( X \)</span>, is given by the Binomial distribution with parameters <span class="latex">\( n = 10000 \)</span> and <span class="latex">\( p = \frac{1}{2} \)</span>, 
-        i.e., <span class="latex">\( X \sim \text{Binom}(10000, \frac{1}{2}) \)</span>. Because <span class="latex">\(X\)</span> follows the Binomial distribution, the expectation, 
-        <span class = "latex">\(\mathbb{E}[X] = np = 10000\cdot\frac{1}{2} = 5000\)</span>, which is consistent with our intuition that it is a fair bet. The expectation is that half of the time we will win, doubling our money, and half of the time we will lose our money. 
-        However, the variance of the distribution is nonzero and is given by <span class="latex">\( \text{Var}(X) = np(1-p) = 10000\cdot\frac{1}{2}\cdot\frac{1}{2} = 2500\)</span>. 
-        Therefore, for a risk neutral or risk averse player, this bet will never be worth it because there is no compensation for risk taken.
-    </p>
-    <p>
-        Now we will consider the bet that the sum is less than 5,100. The bet still pays out 1-1 odds. We can tell right off the bat that this is a better deal, but how much better? To find the probability of winning, we can approximate the 
-        Binomial distribution to Normal. Recall that <span class="latex">\(\text{Binom}(n, p)\)</span> can be approximated as <span class="latex">\( \mathcal{N}(np, \sqrt{np(1-p)}) \)</span> for large <span class="latex">\(n\)</span>. 
-        We can therefore approximate <span class="latex">\(\text{Binom}(10000, \frac{1}{2})\)</span> as <span class="latex">\( \mathcal{N}(5000, 50) \)</span>. For this Normal distribution, 5100 is two standard deviations up from the mean, so 
-        the probability of flipping less than 5100 heads is about 0.975. Formally, <span class="latex">\( \Phi(2) \approx 0.975\)</span>. Now recall that according to the Kelly Criterion, the optimal proportion of bankroll wagered, <span class="latex">\( f^*\)</span>,
-        is given by <span class="latex">\( f^* = \frac{bp-q}{b}\)</span>, where <span class="latex">\( b\)</span> is the odds of the wager minus 1, p is the probability of winning, and q is the probability of losing. 
-        <span class="latex">\( f^* \)</span> is therefore <span class="latex">\( \frac{1\cdot0.975 - 0.025}{1} = 0.95\)</span> of our total bankroll of $100. Thus the optimal choice would be to bet $95. 
-    </p>
-    <h2 id="probability" style="color: #333;">Probability</h2>
-    <h2 id="retention-of-coursework" style="color: #333;">Retention of Coursework</h2>
-    <h2 id="mental-math" style="color: #333;">Mental Math</h2>
-    <h2 id="pattern-recognition-sequences" style="color: #333;">Pattern Recognition (Sequences)</h2>
-    <h2 id="math-and-logic" style="color: #333;">Math and Logic</h2>
-</div>
+    <section id="coin-flipping-bet">
+        <h2>Market Making and Betting: Coin Flipping Bet</h2>
+        <p>
+            Flip 10,000 fair coins. You are offered a 1-1 bet that the sum is less than 5,000. You can bet $1, $2, ..., $100. How much will you bet? How much will you bet if someone tells you that the sum of the coins is less than 5,100?
+        </p>
+        <p> 
+            <strong><u>Solution:</u></strong> Let's first consider the bet that the sum is less than 5,000. Without thinking, this is a fair bet. Formally, the number of heads, 
+            <span class="latex">\( X \)</span>, is given by the Binomial distribution with parameters <span class="latex">\( n = 10000 \)</span> and <span class="latex">\( p = \frac{1}{2} \)</span>, 
+            i.e., <span class="latex">\( X \sim \text{Binom}(10000, \frac{1}{2}) \)</span>. Because <span class="latex">\(X\)</span> follows the Binomial distribution, the expectation, 
+            <span class = "latex">\(\mathbb{E}[X] = np = 10000\cdot\frac{1}{2} = 5000\)</span>, which is consistent with our intuition that it is a fair bet. The expectation is that half of the time we will win, doubling our money, and half of the time we will lose our money. 
+            However, the variance of the distribution is nonzero and is given by <span class="latex">\( \text{Var}(X) = np(1-p) = 10000\cdot\frac{1}{2}\cdot\frac{1}{2} = 2500\)</span>. 
+            Therefore, for a risk neutral or risk averse player, this bet will never be worth it because there is no compensation for risk taken.
+        </p>
+        <p>
+            Now we will consider the bet that the sum is less than 5,100. The bet still pays out 1-1 odds. We can tell right off the bat that this is a better deal, but how much better? To find the probability of winning, we can approximate the 
+            Binomial distribution to Normal. Recall that <span class="latex">\(\text{Binom}(n, p)\)</span> can be approximated as <span class="latex">\( \mathcal{N}(np, \sqrt{np(1-p)}) \)</span> for large <span class="latex">\(n\)</span>. 
+            We can therefore approximate <span class="latex">\(\text{Binom}(10000, \frac{1}{2})\)</span> as <span class="latex">\( \mathcal{N}(5000, 50) \)</span>. For this Normal distribution, 5100 is two standard deviations up from the mean, so 
+            the probability of flipping less than 5100 heads is about 0.975. Formally, <span class="latex">\( \Phi(2) \approx 0.975\)</span>. Now recall that according to the Kelly Criterion, the optimal proportion of bankroll wagered, <span class="latex">\( f^*\)</span>,
+            is given by <span class="latex">\( f^* = \frac{bp-q}{b}\)</span>, where <span class="latex">\( b\)</span> is the odds of the wager minus 1, p is the probability of winning, and q is the probability of losing. 
+            <span class="latex">\( f^* \)</span> is therefore <span class="latex">\( \frac{1\cdot0.975 - 0.025}{1} = 0.95\)</span> of our total bankroll of $100. Thus the optimal choice would be to bet $95. 
+        </p>
+    </section>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.min.js"></script>
 </body>
