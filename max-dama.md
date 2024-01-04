@@ -16,7 +16,7 @@ permalink: /max-dama/
 
 ### <a name="market-making-and-betting"></a>Market Making and Betting
 
-Flip 10000 fair coins. You are offered a 1-1 bet that the sum is less than 5000. You can bet 1, 2, ..., 100 dollars. How much will you bet. How much will you bet if someone tells you that the sum of the coins is less than 5100?
+1. Flip 10000 fair coins. You are offered a 1-1 bet that the sum is less than 5000. You can bet 1, 2, ..., 100 dollars. How much will you bet. How much will you bet if someone tells you that the sum of the coins is less than 5100?
 
 ### <a name="probability"></a>Probability
 
