@@ -91,8 +91,8 @@
     </p>
     <p>
         Now we will consider the bet that the sum is less than 5,100. The bet still pays out 1-1 odds. We can tell right off the bat that this is a better deal, but how much better? To find the probability of winning, we can approximate the 
-        Binomial distribution to Normal. Recall that <span class="latex">\(\text{Binom}(n, p)\)</span> can be approximated as <span class="latex">\( \mathcal{N}(np, \sqrt{np(1-p)}\)</span> for large <span class="latex">\(n\)</span>. 
-        We can therefore approximate <span class="latex">\(\text{Binom}(10000, \frac{1}{2})\)</span> as <span class="latex">\( \mathcal{N}(5000, 50) )\</span>. For this Normal distribution, 5100 is two standard deviations up from the mean, so 
+        Binomial distribution to Normal. Recall that <span class="latex">\(\text{Binom}(n, p)\)</span> can be approximated as <span class="latex">\( \mathcal{N}(np, \sqrt{np(1-p)} \)</span> for large <span class="latex">\(n\)</span>. 
+        We can therefore approximate <span class="latex">\(\text{Binom}(10000, \frac{1}{2})\)</span> as <span class="latex">\( \mathcal{N}(5000, 50) \)</span>. For this Normal distribution, 5100 is two standard deviations up from the mean, so 
         the probability of flipping less than 5100 heads is about 0.975. Formally, <span class="latex">\( \Phi(2) \approx 0.975\)</span>. Now recall that according to the Kelly Criterion, the optimal proportion of bankroll wagered, <span class="latex">\( f^*\)</span>,
         is given by <span class="latex">\( f^* = \frac{bp-q}{b}\)</span>, where <span class="latex">\( b\)</span> is the odds of the wager minus 1, p is the probability of winning, and q is the probability of losing. 
         <span class="latex">\( f^* \)</span> is therefore <span class="latex">\( \frac{1\cdot0.975 - 0.025}{1} = 0.95\)</span> of our total bankroll of $100. Thus the optimal choice would be to bet $95. 
