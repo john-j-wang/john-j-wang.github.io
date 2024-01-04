@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solutions to Max Dama Problems
+title: Solutions to Max Dama Brainteasers
 permalink: /max-dama/
 ---
 
