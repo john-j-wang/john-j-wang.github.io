@@ -82,9 +82,16 @@
         Flip 10,000 fair coins. You are offered a 1-1 bet that the sum is less than 5,000. You can bet $1, $2, ..., $100. How much will you bet? How much will you bet if someone tells you that the sum of the coins is less than 5,100?
     </p>
     <p> 
-    Solution: Let's first consider the bet that the sum is less than 5,000. Without thinking, this is a fair bet. Formally, the number of heads, 
-    <span class="latex">\( X \)</span>, is given by the Binomial distribution with parameters <span class="latex">\( n = 10000 \)</span> and <span class="latex">\( p = \frac{1}{2} \)</span>, 
-    i.e., <span class="latex">\( X \sim \text{Binom}(10000, \frac{1}{2}) \)</span>. Because <span class="latex">\(X\)</span> follows the Binomial distribution, the expectation, <span class = "latex">\(\mathbb{E}[X] = np = 10000\cdot\frac{1}{2} = 5000\)</span>.
+        Solution: Let's first consider the bet that the sum is less than 5,000. Without thinking, this is a fair bet. Formally, the number of heads, 
+        <span class="latex">\( X \)</span>, is given by the Binomial distribution with parameters <span class="latex">\( n = 10000 \)</span> and <span class="latex">\( p = \frac{1}{2} \)</span>, 
+        i.e., <span class="latex">\( X \sim \text{Binom}(10000, \frac{1}{2}) \)</span>. Because <span class="latex">\(X\)</span> follows the Binomial distribution, the expectation, 
+        <span class = "latex">\(\mathbb{E}[X] = np = 10000\cdot\frac{1}{2} = 5000\)</span>, which is consistent with our intuition that it is a fair bet. The expectation is that half of the time we will win, doubling our money, and half of the time we will lose our money. 
+        However, the variance of the distribution is nonzero and is given by <span class="latex">\( \text{Var}(X) = np(1-p) = 10000\cdot\frac{1}{2}\frac{1}{2} = 2500\)</span>. 
+        Therefore, for a risk neutral or risk averse player, this bet will never be worth it because there is no compensation for risk taken.
+    </p>
+    <p>
+        Now we will consider the bet that the sum is less than 5,100. The bet still pays out 1-1 odds. We can tell right off the bat that this is a better deal, but how much better? To find the probability of winning, we can approximate the 
+        Binomial distribution to Normal. Recall that <span class="latex">\(\text{Binom}(n, p)\)</span> can be approximated as <span class="latex">\( \mathcal{N}(np, np(1-p))\)</span> for large <span class="latex">\(n\)</span>.
     </p>
     <h2 id="probability" style="color: #333;">Probability</h2>
     <h2 id="retention-of-coursework" style="color: #333;">Retention of Coursework</h2>
