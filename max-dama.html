@@ -19,28 +19,30 @@
         }
 
         header {
-            background: #003262;
-            color: #FFB515;
-            padding: 20px 0;
+            background: #005f73; /* Darker shade for contrast */
+            color: #ffddd2; /* Lighter shade for text */
+            padding: 30px 0; /* Increased padding */
             text-align: center;
             font-family: 'Arial', sans-serif;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Box shadow for depth */
         }
 
         header h1 {
             margin: 0;
-            font-size: 2em; /* Adjusted font size for the title */
-            font-weight: normal; /* Adjusted font weight */
+            font-size: 2.2em;
+            font-weight: normal;
         }
 
         header a {
-            color: #FFB515;
+            color: #ffddd2;
             text-decoration: none;
-            margin: 0 15px;
-            font-size: 1em; /* Adjusted font size for navigation links */
+            margin: 0 10px;
+            font-size: 1.1em; /* Slightly increased size */
+            transition: color 0.3s;
         }
 
         header a:hover {
-            color: #fff;
+            color: #ffb4a2; /* Color change on hover */
         }
         
         ul {
@@ -51,7 +53,7 @@
 
         li {
             display: inline;
-            margin-right: 20px;
+            margin-right: 15px;
         }
 
         h2 {
@@ -72,22 +74,22 @@
         .dropdown-content {
             display: none;
             position: absolute;
-            background-color: #f9f9f9;
+            background-color: #f1faee; /* Light background for dropdown */
             min-width: 160px;
             box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
             z-index: 1;
         }
 
         .dropdown-content a {
-            color: black;
+            color: #1d3557; /* Dark color for contrast */
             padding: 12px 16px;
             text-decoration: none;
             display: block;
             text-align: left;
-            font-size: 0.9em; /* Adjusted font size for dropdown options */
+            font-size: 0.9em;
         }
 
-        .dropdown-content a:hover {background-color: #f1f1f1}
+        .dropdown-content a:hover {background-color: #a8dadc} /* Light color on hover */
 
         .dropdown:hover .dropdown-content {
             display: block;
