@@ -1,5 +1,5 @@
 title: "John Wang" 
-logo: "/images/GettyImages-1228988128-1-784x523.jpeg?raw=true"
+# logo: "/images/GettyImages-1228988128-1-784x523.jpeg?raw=true"
 description: >
   Hi! I'm an undergrad at the University of California, Berkeley studying Economics, CS, and Stat. My passion is for random events and probability, and  
   I am particularly interested in using statistical and computational models to better understand and gain deeper insight into financial markets. 
@@ -16,7 +16,7 @@ description: >
   
   <a href='https://www.linkedin.com/in/john-j-wang/'><img src='/images/linkedin.png' alt='LinkedIn' style='width:30px;height:30px;border:0;margin-right:5px;'></a>
   <a href='https://github.com/john-j-wang'><img src='/images/github.png' alt='GitHub' style='width:30px;height:30px;border:0;margin-left:5px;margin-right:5px'></a>
-  <a href='https://www.chess.com/member/ilr13s'><img src='/images/chess.png' alt='Chess.com' style='width:30px;height:30px;border:0;margin-left:5px;'></a>
+  # <a href='https://www.chess.com/member/ilr13s'><img src='/images/chess.png' alt='Chess.com' style='width:30px;height:30px;border:0;margin-left:5px;'></a>
   <br><br>
   site still under construction
 remote_theme: pages-themes/minimal@v0.2.0
