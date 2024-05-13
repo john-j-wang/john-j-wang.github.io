@@ -58,14 +58,8 @@
             padding: 15px;
             border-radius: 8px;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-        }
-        li:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 4px 6px rgba(0,0,0,0.15);
         }
         .description {
-            display: none;
             padding: 10px;
             background-color: #f1f1f1;
             border-radius: 5px;
@@ -85,23 +79,12 @@
             <ul>
                 <li>
                     ECON 101A: Intermediate Microeconomics (Math Intensive)
-                    <button onclick="toggleDescription('desc1')">Show Description</button>
-                    <div id="desc1" class="description">This course provides a rigorous treatment of microeconomic theories and applications.</div>
+                    <div class="description">This course provides a rigorous treatment of microeconomic theories and applications.</div>
                 </li>
-                <!-- Repeat for other courses -->
+                <!-- Repeat for other courses with their respective descriptions -->
             </ul>
         </div>
         <!-- Repeat for other sections -->
     </section>
-    <script>
-        function toggleDescription(id) {
-            var element = document.getElementById(id);
-            if (element.style.display === 'block') {
-                element.style.display = 'none';
-            } else {
-                element.style.display = 'block';
-            }
-        }
-    </script>
 </body>
 </html>
