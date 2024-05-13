@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Academic Coursework</title>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
             background: #f9f9f9;
@@ -14,7 +15,7 @@
             line-height: 1.6;
         }
         header {
-            background-color: #003262; /* Berkeley Blue */
+            background: linear-gradient(135deg, #003262, #005f96);
             color: #fff;
             padding: 30px 40px;
             text-align: center;
@@ -25,15 +26,26 @@
         }
         header h1 {
             font-size: 2.5em;
+            font-family: 'Nunito', sans-serif;
+            font-weight: 700;
         }
         section {
-            padding: 40px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        section div {
+            flex-basis: 30%;
+            min-width: 280px;
+            margin: 10px;
         }
         h2, h3 {
-            color: #003262; /* Berkeley Blue */
+            color: #003262;
+            font-family: 'Nunito', sans-serif;
         }
         h2 {
-            border-bottom: 2px solid #fdb515; /* California Gold */
+            border-bottom: 3px solid #fdb515;
             padding-bottom: 5px;
         }
         ul {
@@ -41,7 +53,7 @@
             padding: 0;
         }
         li {
-            background: #e9ecef;
+            background: #fff;
             margin-bottom: 8px;
             padding: 15px;
             border-radius: 8px;
@@ -61,26 +73,31 @@
         <p>Specializing in Economics, Computer Science, and Statistics</p>
     </header>
     <section>
-        <h2>Undergraduate Coursework</h2>
-        <h3>Economics</h3>
-        <ul>
-            <li>ECON C110: Game Theory in the Social Sciences</li>
-            <li>ECON 136: Financial Economics</li>
-            <li>ECON 144: Empirical Asset Pricing (Financial Econometrics)</li>
-        </ul>
-        <h3>Computer Science</h3>
-        <ul>
-            <li>DATA C100: Principles and Techniques of Data Science</li>
-            <li>COMPSCI 170: Efficient Algorithms and Intractable Problems</li>
-            <li>COMPSCI 188: Introduction to Artificial Intelligence</li>
-            <li>COMPSCI 189: Introduction to Machine Learning</li>
-        </ul>
-        <h3>Statistics</h3>
-        <ul>
-            <li>STAT 133: Concepts in Computing With Data</li>
-            <li>STAT 140: Probability for Data Science</li>
-            <li>STAT 150: Stochastic Processes</li>
-        </ul>
+        <div>
+            <h2>Economics</h2>
+            <ul>
+                <li>ECON C110: Game Theory in the Social Sciences</li>
+                <li>ECON 136: Financial Economics</li>
+                <li>ECON 144: Empirical Asset Pricing (Financial Econometrics)</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Computer Science</h2>
+            <ul>
+                <li>DATA C100: Principles and Techniques of Data Science</li>
+                <li>COMPSCI 170: Efficient Algorithms and Intractable Problems</li>
+                <li>COMPSCI 188: Introduction to Artificial Intelligence</li>
+                <li>COMPSCI 189: Introduction to Machine Learning</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Statistics</h2>
+            <ul>
+                <li>STAT 133: Concepts in Computing With Data</li>
+                <li>STAT 140: Probability for Data Science</li>
+                <li>STAT 150: Stochastic Processes</li>
+            </ul>
+        </div>
     </section>
 </body>
 </html>
