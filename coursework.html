@@ -58,7 +58,12 @@
             padding: 15px;
             border-radius: 8px;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-            transition: all 0.3s ease;
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+            position: relative;
+        }
+        li:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.15);
         }
         .description {
             display: none;
@@ -66,6 +71,11 @@
             background-color: #f1f1f1;
             border-radius: 5px;
             margin-top: 5px;
+            position: absolute;
+            width: 100%;
+            left: 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.25);
+            z-index: 1000;
         }
         li:hover .description {
             display: block;
@@ -82,14 +92,40 @@
         <div>
             <h2>Economics</h2>
             <ul>
-                <li>
-                    ECON 101A: Intermediate Microeconomics (Math Intensive)
-                    <div class="description">This course provides a rigorous treatment of microeconomic theories and applications.</div>
-                </li>
-                <!-- Repeat for other courses -->
+                <li>ECON 101A: Intermediate Microeconomics (Math Intensive)<div class="description">Explore advanced concepts in microeconomics focusing on mathematical approaches.</div></li>
+                <li>ECON 101B: Intermediate Macroeconomics (Math Intensive)<div class="description">Detailed analysis of macroeconomic models and their real-world applications.</div></li>
+                <li>ECON 141: Econometrics (Math Intensive)<div class="description">Study of econometric models and their applications in economic data analysis.</div></li>
+                <li>ECON C110: Game Theory in the Social Sciences<div class="description">Introduction to game theory and its implications in social sciences.</div></li>
+                <li>ECON 121: Industrial Organization and Public Policy<div class="description">Examination of how businesses interact and the role of government regulation.</div></li>
+                <li>ECON 136: Financial Economics<div class="description">Exploration of financial markets, investment strategies, and risk management techniques.</div></li>
+                <li>ECON 144: Empirical Asset Pricing (Financial Econometrics)<div class="description">Application of econometric methods to asset pricing models.</div></li>
+                <li>EWMBA 222: Financial Information Analysis (Graduate Level)<div class="description">Graduate-level study of financial statement analysis and valuation techniques.</div></li>
+                <li>UGBA 133: Investments<div class="description">Introduction to investment analysis, portfolio management, and security valuation.</div></li>
             </ul>
         </div>
-        <!-- Repeat for other sections -->
+        <div>
+            <h2>Computer/Data Science</h2>
+            <ul>
+                <li>DATA C100: Principles and Techniques of Data Science<div class="description">Core techniques and principles in data science, from data manipulation to analysis.</div></li>
+                <li>DATA C102: Data, Inference, and Decisions<div class="description">Methods for decision-making and inference based on data.</div></li>
+                <li>DATA 144: Data Mining<div class="description">Techniques for extracting information from large datasets.</div></li>
+                <li>COMPSCI 170: Efficient Algorithms and Intractable Problems<div class="description">Study of algorithms, complexity, and computationally hard problems.</div></li>
+                <li>COMPSCI 188: Introduction to Artificial Intelligence<div class="description">Foundations of AI including machine learning, reasoning, and robotics.</div></li>
+                <li>COMPSCI 189: Introduction to Machine Learning<div class="description">Detailed exploration of machine learning algorithms and their applications.</div></li>
+                <li>EECS 127: Convex Optimization<div class="description">Study of optimization techniques in engineering and data science.</div></li>
+            </ul>
+        </div>
+        <div>
+            <h2>Mathematics and Statistics</h2>
+            <ul>
+                <li>MATH 128A: Numerical Analysis<div class="description">Techniques and theory behind numerical approximation and computation.</div></li>
+                <li>STAT 133: Concepts in Computing With Data<div class="description">Introduction to computing tools for statistical data analysis.</div></li>
+                <li>STAT 135: Concepts of Statistics<div class="description">Comprehensive overview of statistical methods and their theoretical bases.</div></li>
+                <li>STAT C140: Probability for Data Science<div class="description">Advanced probability theories focused on data science applications.</div></li>
+                <li>STAT 150: Stochastic Processes<div class="description">Study of stochastic processes and their applications in various fields.</div></li>
+                <li>STAT 198: Introduction to Quantitative Finance<div class="description">Fundamentals of quantitative finance including models and numerical methods.</div></li>
+            </ul>
+        </div>
     </section>
 </body>
 </html>
