@@ -13,7 +13,7 @@ bio: |
   I am a graduate student in the Mathematics of Finance (MAFN) program 
   at Columbia University. Previously, I did my undergrad at UC Berkeley, triple majoring in Statistics,
   Economics, and DS. My interests lie in machine learning, computer vision, and NLP. 
-  
+   
   Currently, I am working on a fast method of photorealistic image transfer that takes linear time. 
   Outside of my work, I enjoy trying new restaurants, going on hikes, and taking photos of nature.
 
@@ -26,9 +26,9 @@ links:
     url: mailto:john.wang@columbia.edu
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/john-j-wang # Add your actual LinkedIn URL here
+    url: https://www.linkedin.com/in/john-j-wang # Updated to standard LinkedIn URL format
   - icon: brands/github
-    url: https://github.com/john-j-wang # Add your actual GitHub URL here
+    url: https://github.com/john-j-wang
 
 interests:
   - Machine Learning
@@ -40,10 +40,12 @@ interests:
 education:
   - degree: MA in Mathematics of Finance
     institution: Columbia University
-    start: 2025-09-01 # Approximate start based on graduation date
+    start: 2025-09-01
     end: 2026-12-31
     summary: |
-      Coursework in Stochastic Processes, Financial Modeling, and Machine Learning.
+      **Selected Coursework:**
+      * COMS 6706: Advanced Spoken Language Processing
+      * MEEC E6600: Mathematics of Machine Learning
     button:
       text: View Courses
       url: /
@@ -62,7 +64,6 @@ experience:
     start: 2025-11-01
     summary: |
       sdf
-
 
 skills:
   - name: Technical Skills
