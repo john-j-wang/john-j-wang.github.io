@@ -26,7 +26,7 @@ links:
     url: mailto:john.wang@columbia.edu
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/john-j-wang # Updated to standard LinkedIn URL format
+    url: https://www.linkedin.com/in/john-j-wang
   - icon: brands/github
     url: https://github.com/john-j-wang
 
@@ -40,11 +40,10 @@ interests:
 education:
   - degree: MA in Mathematics of Finance
     institution: Columbia University
-    start: 2025-09-01
-    end: 2026-12-31
+    start: Sep. 2025
+    end: Dec. 2026
     summary: |
       **Selected Coursework:**
-      * COMS 6706: Advanced Spoken Language Processing
       * MEEC E6600: Mathematics of Machine Learning
     button:
       text: View Courses
@@ -52,8 +51,8 @@ education:
       icon: hero/academic-cap
   - degree: BA in Economics, Statistics, Data Science
     institution: University of California, Berkeley
-    start: 2020-09-01
-    end: 2024-12-31
+    start: Aug. 2020
+    end: Dec. 2024
     summary: |
       College of Letters and Science,
       College of Computing, Data Science, and Society.
