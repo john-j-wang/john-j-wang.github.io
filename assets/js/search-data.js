@@ -95,20 +95,16 @@ ninja.data = [{
             },},{id: "news-i-moved-to-berkeley-california-to-begin-my-undergraduate-studies-at-the-university-of-california-berkeley",
           title: 'I moved to Berkeley, California to begin my undergraduate studies at the University...',
           description: "",
-          section: "News",},{id: "news-announcement-slp",
-          title: 'Announcement_slp',
+          section: "News",},{id: "news-i-began-my-internship-at-slate-path-capital-a-hedge-fund-in-new-york",
+          title: 'I began my internship at Slate Path Capital, a hedge fund in New...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_slp/";
-            },},{id: "news-i-graduated-from-the-university-of-california-berkeley-and-moved-back-to-new-york",
+          section: "News",},{id: "news-i-graduated-from-the-university-of-california-berkeley-and-moved-back-to-new-york",
           title: 'I graduated from the University of California, Berkeley and moved back to New...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-joined-the-department-of-mathematics-at-columbia-university-as-a-master-s-student-specializing-in-the-mathematics-of-finance",
+          title: 'I joined the Department of Mathematics at Columbia University as a Master’s student,...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-my-team-from-columbia-bayes-on-the-river-was-selected-as-a-winner-to-the-15th-annual-academic-student-competition-hosted-by-the-international-association-for-quantitative-finance",
+          section: "News",},{id: "news-my-team-from-columbia-bayes-on-the-river-was-selected-as-a-winner-to-the-15th-annual-academic-student-competition-hosted-by-the-international-association-for-quantitative-finance",
           title: 'My team from Columbia, Bayes on the River, was selected as a winner...',
           description: "",
           section: "News",},{id: "projects-project-1",
