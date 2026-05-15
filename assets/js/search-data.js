@@ -99,7 +99,7 @@ ninja.data = [{
           title: 'I began my internship at Slate Path Capital, a hedge fund in New...',
           description: "",
           section: "News",},{id: "news-i-won-3rd-place-at-g-research-39-s-berkeley-quant-challenge",
-          title: 'I won 3rd place at **G-Research&amp;#39;s** Berkeley Quant Challenge.',
+          title: 'I won 3rd place at G-Research&amp;#39;s Berkeley Quant Challenge.',
           description: "",
           section: "News",},{id: "news-i-graduated-from-the-university-of-california-berkeley-and-moved-back-to-new-york",
           title: 'I graduated from the University of California, Berkeley and moved back to New...',
