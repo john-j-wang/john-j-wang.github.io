@@ -73,7 +73,7 @@ ninja.data = [{
             },},{id: "news-i-moved-to-berkeley-california-to-begin-my-undergraduate-studies-at-the-university-of-california-berkeley",
           title: 'I moved to Berkeley, California to begin my undergraduate studies at the University...',
           description: "",
-          section: "News",},{id: "news-i-began-my-internship-at-slate-path-capital-a-hedge-fund-in-new-york",
+          section: "News",},{id: "news-i-began-my-internship-at-slate-path-capital-a-hedge-fund-in-new-york-joining-the-bcwg-team-specializing-in-cryptocurrency-investments",
           title: 'I began my internship at Slate Path Capital, a hedge fund in New...',
           description: "",
           section: "News",},{id: "news-i-won-3rd-place-at-g-research-39-s-berkeley-quant-challenge",
