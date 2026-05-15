@@ -31,3 +31,10 @@ I am a Master of Arts candidate at **Columbia University**, expecting to graduat
 Previously, I triple majored at **UC Berkeley** with a B.S. in Statistics and Data Science and a B.A. in Economics. My experience includes developing models for volatility surface calibration and implementing new reinforcement learning agents that learn to hedge risk in novel settings.
 
 Outside of academics, I love hiking and taking landscape photos. I am currently on a [mission](https://www.instagram.com/questto63/) to see all 63 national parks in the United States; I am currently on number 8. On my most recent trip, I visited Zion and Death Valley National Park, where I hiked up Angels Landing and through the Narrows. In September, I plan on visiting Yosemite for the second time to scale Half Dome.
+
+<div class="news">
+  {% if site.announcements.enabled %}
+    <br>
+    <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color);">View all news...</a>
+  {% endif %}
+</div>
