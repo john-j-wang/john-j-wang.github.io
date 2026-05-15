@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I moved to Berkeley, California to begin my undergraduate studies at The University of California, Berkeley.
+I moved to Berkeley, California to begin my undergraduate studies at the University of California, Berkeley.
