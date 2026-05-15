@@ -92,18 +92,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-moved-to-berkeley-california-to-begin-my-undergraduate-studies-at-the-university-of-california-berkeley",
+          title: 'I moved to Berkeley, California to begin my undergraduate studies at the University...',
+          description: "",
+          section: "News",},{id: "news-announcement-slp",
+          title: 'Announcement_slp',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_slp/";
+            },},{id: "news-i-graduated-from-the-university-of-california-berkeley-and-moved-back-to-new-york",
+          title: 'I graduated from the University of California, Berkeley and moved back to New...',
+          description: "",
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-moved-to-berkeley-california-to-begin-my-undergraduate-studies-at-the-university-of-california-berkeley",
-          title: 'I moved to Berkeley, California to begin my undergraduate studies at The University...',
-          description: "",
-          section: "News",},{id: "news-i-graduated-from-the-university-of-california-berkeley-and-moved-back-to-new-york",
-          title: 'I graduated from the University of California, Berkeley and moved back to New...',
-          description: "",
-          section: "News",},{id: "news-my-team-from-columbia-bayes-on-the-river-was-selected-as-a-winner-to-the-15th-annual-academic-student-competition-hosted-by-the-international-association-for-quantitative-finance",
+            },},{id: "news-my-team-from-columbia-bayes-on-the-river-was-selected-as-a-winner-to-the-15th-annual-academic-student-competition-hosted-by-the-international-association-for-quantitative-finance",
           title: 'My team from Columbia, Bayes on the River, was selected as a winner...',
           description: "",
           section: "News",},{id: "projects-project-1",
