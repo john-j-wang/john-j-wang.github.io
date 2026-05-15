@@ -97,8 +97,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-moved-to-berkeley-california-to-begin-my-undergraduate-studies-at-the-university-of-california-berkeley",
+          title: 'I moved to Berkeley, California to begin my undergraduate studies at The University...',
           description: "",
           section: "News",},{id: "news-i-graduated-from-the-university-of-california-berkeley-and-moved-back-to-new-york",
           title: 'I graduated from the University of California, Berkeley and moved back to New...',
