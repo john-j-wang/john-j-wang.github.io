@@ -125,16 +125,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: iaqf.org
+    rss_url: https://cdn.wildapricot.com/82393/resources/Documents/2026%20Student%20Competition/The%20IAQF%20Announces%20the%20Winners%20of%20the%20Fifteenth%20Annual%20IAQF%20Academic%20Affiliate%20Membership%20Student%20Competition%202026.pdf?version=1778509699000&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLndpbGRhcHJpY290LmNvbS84MjM5My9yZXNvdXJjZXMvRG9jdW1lbnRzLzIwMjYlMjBTdHVkZW50JTIwQ29tcGV0aXRpb24vVGhlJTIwSUFRRiUyMEFubm91bmNlcyUyMHRoZSUyMFdpbm5lcnMlMjBvZiUyMHRoZSUyMEZpZnRlZW50aCUyMEFubnVhbCUyMElBUUYlMjBBY2FkZW1pYyUyMEFmZmlsaWF0ZSUyME1lbWJlcnNoaXAlMjBTdHVkZW50JTIwQ29tcGV0aXRpb24lMjAyMDI2LnBkZj92ZXJzaW9uPTE3Nzg1MDk2OTkwMDAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Nzg4MjY4NTF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=OxAz7UUqgQ1EIRDbGW4jIi~ThJPyUr~Mm5u1snB2XnvAyLMcEJQHhCPFzrhdkxGVmxSrYa4KJ99E5mRhkZ9dD2r8KbZsKOqtgzLU~idea4jxYHOvGGWOVwETAGxzueb6xTFd2goYKtpstfM-kXxPe1PTjko6ZVhZVSOhYpzX8nj~vD~BwFYsPuHHgV5DPZidh4aGvMzRdd0cVlnQXYi~LeGtKI97C9kRWJgi3zAZ6Al-zqUfP6EzKK7LzsdgCvN0-mytAzD0Cv4Xf0wI1eoNH8NyfQ4SVq39DT0QY5b2SUk2oM9Nwp4huHPKT9wpUBaAmJFNB1fUU-PHtDuqck~Q8w__&Key-Pair-Id=K27MGQSHTHAGGF
     categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+    tags: [iaqf]
 
 # -----------------------------------------------------------------------------
 # Newsletter
