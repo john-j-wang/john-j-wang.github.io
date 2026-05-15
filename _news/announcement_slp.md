@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I began my internship at **Slate Path Capital**, a hedge fund in New York.
+I began my internship at **Slate Path Capital**, a hedge fund in New York, joining the BCWG team specializing in cryptocurrency investments.
