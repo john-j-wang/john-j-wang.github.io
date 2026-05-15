@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Department of Mathematics, Columbia Univeristy
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master of Arts candidate in the **Department of Mathematics** at **Columbia University**, expecting to graduate in January 2027. My passion is for probability and random events; I am interested in applications such as NLP, computer vision, and quantitative risk management.
+I am a Master of Arts candidate at **Columbia University**, expecting to graduate in January 2027. My passion is for probability and random events; I am interested in applications such as NLP, computer vision, and quantitative risk management.
 
 Previously, I triple majored at **UC Berkeley** with a B.S. in Statistics and Data Science and a B.A. in Economics. My experience includes developing models for volatility surface calibration and implementing new reinforcement learning agents that learn to hedge risk in novel settings.
 
