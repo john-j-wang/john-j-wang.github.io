@@ -28,6 +28,6 @@ latest_posts:
 
 I am a Master of Arts candidate in the **Department of Mathematics** at **Columbia University**, expecting to graduate in January 2027. My passion is for probability and random events; I am interested in applications such as NLP, computer vision, and quantitative risk management.
 
-Previously, I triple majored at **UC Berkeley** with a B.S. in Statistics and Data Science and a B.A. in Economics. My technical background includes developing models for volatility surface calibration and implementing new reinforcement learning agents that learn to hedge risk in novel settings.
+Previously, I triple majored at **UC Berkeley** with a B.S. in Statistics and Data Science and a B.A. in Economics. My experience includes developing models for volatility surface calibration and implementing new reinforcement learning agents that learn to hedge risk in novel settings.
 
-Outside of academics, I love hiking and taking landscape photos. I am currently on a mission to see all 63 national parks in the United States; I am currently on #8. On my most recent trip, I visited Zion and Death Valley National Park, where I hiked up Angels Landing and through the Narrows. You can view some of my nature photos [here](https://www.instagram.com/questto63/).
+Outside of academics, I love hiking and taking landscape photos. I am currently on a [mission](https://www.instagram.com/questto63/) to see all 63 national parks in the United States; I am currently on #8. On my most recent trip, I visited Zion and Death Valley National Park, where I hiked up Angels Landing and through the Narrows.
